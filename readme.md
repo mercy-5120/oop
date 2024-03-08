@@ -2,11 +2,14 @@
 >>>A project of a countdown for a giveaway of an old iphone
 Here is the link to my github repository
 (https://github.com/mercy-5120/oop.git)
+Here is the link to my project
+(https://tinyurl.com/3nchbekk)
 Here are the technologies I used
 *HTML5
 *CSS3
 *JavaScript
 *Github
+*Netlify
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

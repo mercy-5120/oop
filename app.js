@@ -10,5 +10,20 @@ let year=date.getFullYear()
 let month=date.getMonth()
 let day=date.getDate()
  //future date
-  const futuredate = new Date (year,month,day)
+  const futuredate = new Date (year,month,day+16,11,10,0)
+
+  //get date,year,month
+  let thisYear=futuredate.getFullYear()
+  let thisHour=futuredate.getHours()
+  let thisMinute=futuredate.getMinutes()
+
+  let thisMonth=futuredate.getMonth()
+  thisMonth=months[month]
+ 
+
+  //weekday
+var weekday=weekday[futuredate.getDay()]
+var laterdate=futuredate.getDate()
+giveaway.textContent=`Giveaway ends on ${weekday},${laterdate},${thisMonth},${thisYear},${thisHour},${thisMinute} a.m`
+
   
